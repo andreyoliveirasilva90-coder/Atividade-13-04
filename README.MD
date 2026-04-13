@@ -32,4 +32,4 @@ A IA foi utilizada como assistente, não substituindo o raciocínio do desenvolv
 (Link da Vercel)
 
 ## 📂 Repositório
-(Link do GitHub)
+[Acessar projeto no GitHub](https://github.com/andreyoliveirasilva90-codificador/Atividade-13-04)
