@@ -21,7 +21,7 @@ Foram utilizados prompts estruturados com:
 A IA foi utilizada como assistente, não substituindo o raciocínio do desenvolvedor.
 
 ## 🧾 Reflexão Crítica
-(cola aqui a reflexão que te mandei)
+O diferencial do projeto não foi apenas o código, mas a forma como a IA foi utilizada de maneira estratégica no processo de desenvolvimento
 
 ## 🛠️ Tecnologias
 - HTML
@@ -29,7 +29,7 @@ A IA foi utilizada como assistente, não substituindo o raciocínio do desenvolv
 - JavaScript
 
 ## 🌐 Deploy
-(Link da Vercel)
+atividade-13-04-7dqp45pdn-andreyoliveirasilva90-coders-projects.vercel.app
 
 ## 📂 Repositório
 [Acessar projeto no GitHub](https://github.com/andreyoliveirasilva90-codificador/Atividade-13-04)
