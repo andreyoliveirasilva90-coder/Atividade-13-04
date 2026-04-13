@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <title>To-Do App</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <div class="app">
+
+    <header>
+      <h1>✔ Tasks</h1>
+      <button id="themeToggle">🌙</button>
+    </header>
+
+    <div class="input-area">
+      <input type="text" id="taskInput" placeholder="Nova tarefa..." />
+
+      <select id="priority">
+        <option value="alta">Alta</option>
+        <option value="media">Média</option>
+        <option value="baixa">Baixa</option>
+      </select>
+
+      <button onclick="addTask()">+</button>
+    </div>
+
+    <ul id="taskList"></ul>
+
+    <p id="empty">Sem tarefas ainda ✨</p>
+
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>
