@@ -38,7 +38,7 @@ function addTask() {
 
   const tasks = getTasks();
 
-  tasks.push({
+  tasks.unshift({
     text: input.value,
     date: dateInput.value,
     time: timeInput.value,

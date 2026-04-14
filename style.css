@@ -25,7 +25,6 @@ body {
   justify-content: center;
   align-items: center;
   height: 100vh;
-  transition: 0.3s;
 }
 
 .app {
@@ -67,6 +66,22 @@ button {
   display: flex;
   gap: 5px;
   margin-top: 10px;
+}
+
+#taskList {
+  max-height: 300px;
+  overflow-y: auto;
+  margin-top: 10px;
+}
+
+/* Scroll estilizado */
+#taskList::-webkit-scrollbar {
+  width: 6px;
+}
+
+#taskList::-webkit-scrollbar-thumb {
+  background: #888;
+  border-radius: 10px;
 }
 
 li {
